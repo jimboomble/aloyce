@@ -1,0 +1,13 @@
+{
+    "name": "aloyce-customer-data-manager",
+    "version": "1.0.0",
+    "description": "Handles customer data retrieval for Roblox Servers",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
